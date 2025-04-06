@@ -16,11 +16,3 @@
 **🚧 Impedimentos:** Não  
 
 ---
-
-### 👤 teste 5
-
-**✅ Ontem:** atualizações  
-**📌 Hoje:** mais atualizaçoes  
-**🚧 Impedimentos:** não  
-
----
