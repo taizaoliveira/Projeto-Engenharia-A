@@ -1,5 +1,5 @@
-
-## Daily - 2025-04-06
+<details>
+<summary>🗓️ Daily - 2025-04-06</summary>
 
 ### 👤 Teste
 
@@ -24,3 +24,5 @@
 **🚧 Impedimentos:** não  
 
 ---
+
+</details>
