@@ -1,26 +1,8 @@
 
 ## Daily - 2025-04-06
 
-### 👤 Teste
-
-**✅ Ontem:** teste 1  
-**📌 Hoje:** teste 2  
-**🚧 Impedimentos:** Não  
-
----
-
-### 👤 Taíza
-
-**✅ Ontem:** Teste 3  
-**📌 Hoje:** Teste 4  
-**🚧 Impedimentos:** Não  
-
----
-
-### 👤 teste 5
-
-**✅ Ontem:** atualizações  
-**📌 Hoje:** mais atualizaçoes  
-**🚧 Impedimentos:** não  
-
----
+| Nome | Ontem | Hoje | Impedimentos |
+|------|--------|------|--------------|
+| Teste | teste 1 | teste 2 | Não |
+| Taíza | Teste 3 | Teste 4 | Não |
+| teste 5 | atualizações | mais atualizaçoes | não |
