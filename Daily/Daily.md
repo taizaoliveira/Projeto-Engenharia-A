@@ -1,35 +1,43 @@
 <details>
-<summary>🗓️ Daily - 2025-04-06</summary>
+<summary>🗓️ Daily - 2025-04-07</summary>
 
-### 👤 Teste
+### 👤 Gabriela Rodrigues conceição 
 
-**✅ Ontem:** teste 1  
-**📌 Hoje:** teste 2  
-**🚧 Impedimentos:** Não  
+**✅ Ontem:** Sai   
+**📌 Hoje:** Vou pra UFAM mais tarde kkk  
+**🚧 Impedimentos:** Força de vontade   
 
 ---
 
 ### 👤 Taíza
 
-**✅ Ontem:** Teste 3  
-**📌 Hoje:** Teste 4  
+**✅ Ontem:** Criação e atualização do repositório no github   
+**📌 Hoje:** Pesquisas sobre os temas propostos para o desenvolvimento do trabalho  
 **🚧 Impedimentos:** Não  
 
 ---
 
-### 👤 teste 5
+### 👤 Gregory Gabriel Ozaki Coelho
 
-**✅ Ontem:** atualizações  
-**📌 Hoje:** mais atualizaçoes  
-**🚧 Impedimentos:** não  
+**✅ Ontem:** Pesquisa sobre o tema e o que podemos fazer com base nisso.  
+**📌 Hoje:** Continuar a pesquisa e debater com a equipe as possíveis ideias para desenvolvimento do projeto.  
+**🚧 Impedimentos:** Não houve nenhum.  
 
 ---
 
-### 👤 Teste 10000000000
+### 👤 Leano Guerreiro Baba
 
-**✅ Ontem:** testes, testes e testes  
-**📌 Hoje:** testes e mais testes  
-**🚧 Impedimentos:** não  
+**✅ Ontem:** Pesquisei aplicativos feitos com a ferramenta proposta afim de avaliar a viabilidade de desenvolvimento de um aplicativo que aborda o tema escolhido  
+**📌 Hoje:** Continuarei com a pesquisa de ontem  
+**🚧 Impedimentos:** Hoje não  
+
+---
+
+### 👤 Brayner Santana Brito
+
+**✅ Ontem:** Nada  
+**📌 Hoje:** Hoje faremos uma reunião para discutirmos o que iremos pesquisar para desenvolver o trabalho.  
+**🚧 Impedimentos:** Não   
 
 ---
 
