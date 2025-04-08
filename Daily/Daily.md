@@ -3,9 +3,9 @@
 
 ### 👤 Gabriela Rodrigues conceição 
 
-**✅ Ontem:** Sai   
-**📌 Hoje:** Vou pra UFAM mais tarde kkk  
-**🚧 Impedimentos:** Força de vontade   
+**✅ Ontem:** Pesquisei ideias para os temas de trabalho em Engenharia de Software: saúde pública, segurança alimentar e monitoramento climatico. Cada um oferece boas oportunidades para desenvolver soluções tecnológicas com impacto social.
+**📌 Hoje:** reunião para selicionar o tema 
+**🚧 Impedimentos:** nenhum
 
 ---
 
