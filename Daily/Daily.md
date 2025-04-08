@@ -9,7 +9,7 @@
 
 ---
 
-### 👤 Taíza
+### 👤 Taíza Paula de Oliveira Lima
 
 **✅ Ontem:** Criação e atualização do repositório no github   
 **📌 Hoje:** Pesquisas sobre os temas propostos para o desenvolvimento do trabalho  
