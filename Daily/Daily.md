@@ -35,7 +35,7 @@
 
 ### 👤 Brayner Santana Brito
 
-**✅ Ontem:** Nada  
+**✅ Ontem:** Pesquisas sobre o tema  
 **📌 Hoje:** Hoje faremos uma reunião para discutirmos o que iremos pesquisar para desenvolver o trabalho.  
 **🚧 Impedimentos:** Não   
 
