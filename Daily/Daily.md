@@ -69,4 +69,11 @@
 
 ---
 
+### 👤 Gregory Gabriel Ozaki Coelho
+
+**✅ Ontem:** Foi decidido o tema do  trabalho e discutimos algumas funcionalidades para o app.  
+**📌 Hoje:** Foi discutido novas funcionalidades.  
+**🚧 Impedimentos:** Não.  
+
+---
 </details>
