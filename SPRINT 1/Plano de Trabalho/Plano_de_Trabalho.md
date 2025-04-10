@@ -162,7 +162,12 @@ Visão ampla do sistema e suas funcionalidades principais.
 
 | Papel            | Responsabilidades                                                  |
 |------------------|--------------------------------------------------------------------|
-| (A preencher)    |                                                                    |
+| Andrey Rodrigues    |                  Product Owner (PO)                                                  |
+| Brayner Santana    |                  QA / Testes                                                  |
+| Gabriela Rodrigues    |                  Analista de Requisitos                                                  |
+| Gregory Gabriel    |                  UX/UI Designer                                                   |
+| Leano Baba    |                  Dev Backend                                                  |
+| Taíza Paula    |                  Scrum Master e Dev Mobile                                                  |
 
 ### 3.3 Backlog do Sprint
 Lista de tarefas comprometidas para a sprint. Baseado no backlog do produto.
