@@ -150,3 +150,40 @@
 ---
 
 </details>
+
+<details>
+<summary>🗓️ Daily - 2025-04-11</summary>
+
+### 👤 Taíza Paula
+
+**✅ Ontem:** Reunião inicial da sprint  
+**📌 Hoje:** Construção do plano de trabalho   
+**🚧 Impedimentos:** Não   
+
+---
+
+### 👤 Gregory Gabriel Ozaki Coelho
+
+**✅ Ontem:** Tivemos nossa primeira reunião presencial, onde definimos o tema, a ideia, como está feita a organização do trabalho no Github e no Notion, dividimos os papéis de cada integrante do squad, dividimos o trabalho do design thinking e iniciamos o plano de trabalho.  
+**📌 Hoje:** Hoje daremos continuidade no desenvolvimento do design thinking e plano de trabalho.  
+**🚧 Impedimentos:** Não.  
+
+---
+
+### 👤 Leano Guerreiro 
+
+**✅ Ontem:** Reunião com o grupo para definir a ideia final e o tema do projeto, tivemos a aprovação do monitor da disciplina   
+**📌 Hoje:** Farei a pesquisa de mercado para comparar soluções existentes com a nossa proposta  
+**🚧 Impedimentos:** Não   
+
+---
+
+### 👤 Gabriela Rodrigues Conceição
+
+**✅ Ontem:** Tomei nota do que foi discutido em reunião, fiquei responsável para ser analista de requisito com mais dois integrantes.   
+**📌 Hoje:** Pesquisar apps e web site para ajudar na criação do App na área de saúde publica  
+**🚧 Impedimentos:** Algumas dificuldades para atender todos os requisitos que estou buscando.  
+
+---
+
+</details>
