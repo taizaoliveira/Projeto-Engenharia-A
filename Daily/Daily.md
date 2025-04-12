@@ -187,3 +187,32 @@
 ---
 
 </details>
+
+<details>
+<summary>🗓️ Daily - 2025-04-12</summary>
+
+### 👤 Gregory Gabriel Ozaki Coelho
+
+**✅ Ontem:** Comecei a fazer as personas do design thinking.  
+**📌 Hoje:** Continuar a construção das personas.  
+**🚧 Impedimentos:** Não.  
+
+---
+
+### 👤 Taíza Paula 
+
+**✅ Ontem:** Construção do plano de trabalho  
+**📌 Hoje:** Atualização do plano de trabalho, atualização do GitHub  
+**🚧 Impedimentos:** Não   
+
+---
+
+### 👤 Brayner Santana Brito 
+
+**✅ Ontem:** O meu time tirou dúvidas do projeto com o PO  
+**📌 Hoje:** Nada  
+**🚧 Impedimentos:** Não   
+
+---
+
+</details>
