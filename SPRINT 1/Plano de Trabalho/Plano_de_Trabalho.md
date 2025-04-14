@@ -16,7 +16,7 @@
 
 | Versão | Descrição                | Autor   | Data   |
 |--------|--------------------------|---------|--------|
-| 1.0    | Elaboração do Plano      | XXXXXX  | XXXXX  |
+| 1.0    | Elaboração do Plano      | Taíza  | 09/04/2025  |
 
 ---
 
@@ -65,8 +65,6 @@ Explicação da relevância do projeto e os problemas que resolve.
 #### 1.3.1 Classe
 | Classe             | Detalhamento                                                         |
 |--------------------|----------------------------------------------------------------------|
-| Sistema Web        | Acessível via navegador.                                             |
-| Software Embarcado | Ex: Monitoramento de temperatura em fábrica.                        |
 | Aplicativo Móvel   | Ex: App para agendamento de consultas médicas.                      |
 
 #### 1.3.2 Enquadrabilidade
@@ -111,7 +109,7 @@ Visão ampla do sistema e suas funcionalidades principais.
 | Gerenciamento de Backlog | GitHub                                  |
 | Repositório de Código  | GitHub                                   |
 | Modelagem de Software  | Draw.io (classes, telas)                  |
-| Desenvolvimento do MVP | [especificar ferramenta]                 |
+| Desenvolvimento do MVP | Thunkable                 |
 
 ### 2.3 Características Inovadoras do Projeto
 - Emissão automática de certificados  
