@@ -222,3 +222,48 @@
 <summary>🗓️ Daily - 2025-04-13</summary>
 
 </details>
+
+<details>
+<summary>🗓️ Daily - 2025-04-14</summary>
+
+### 👤 Gabriela Rodrigues Conceição 
+
+**✅ Ontem:** Pesquisas relacionadas ao tema  
+**📌 Hoje:** Discutir as tarefas atribuídas   
+**🚧 Impedimentos:** Nenhum  
+
+---
+
+### 👤 Gregory Gabriel Ozaki Coelho
+
+**✅ Ontem:** Continue a contrução das personas.  
+**📌 Hoje:** Continuar a construção das personas.  
+**🚧 Impedimentos:** Não.  
+
+---
+
+### 👤 Taiza Paula
+
+**✅ Ontem:** Sem trabalho (Domingo)  
+**📌 Hoje:** Construção do plano de trabalho, alinhamento com a equipe sobre os progressos e impedimentos no projeto   
+**🚧 Impedimentos:** Não   
+
+---
+
+### 👤 leano Guerreiro 
+
+**✅ Ontem:** pesquisei uma aplicação que seja concorrente da proposta do projeto  
+**📌 Hoje:** farei a análise da aplicação   
+**🚧 Impedimentos:** não   
+
+---
+
+### 👤 Brayner Santana Brito 
+
+**✅ Ontem:** Pesquisei aplicativos que tem propostas semelhantes ao nosso projeto   
+**📌 Hoje:** Provavelmente uma reunião via meet com o time  
+**🚧 Impedimentos:** Não   
+
+---
+
+</details>
