@@ -267,3 +267,49 @@
 ---
 
 </details>
+
+<details>
+<summary>🗓️ Daily - 2025-04-15</summary>
+
+### 👤 Gregory Gabriel Ozaki Coelho
+
+**✅ Ontem:** Construção de personas.  
+**📌 Hoje:** Tentar finalizar a construção das personas.  
+**🚧 Impedimentos:** Sim, o ferramenta para construir as personas sugerida pelo PO mostrou alguns erros no momento de baixar o PDF, conversei com o orientador da disciplina e estou aguardando novas informações sobre.  
+
+---
+
+### 👤 Gabriela Rodrigues conceição 
+
+**✅ Ontem:** Nenhuma atividade, ainda aguardando a próxima reunião   
+**📌 Hoje:** Pesquisas   
+**🚧 Impedimentos:** Não   
+
+---
+
+### 👤 Brayner Santana Brito 
+
+**✅ Ontem:** Nada   
+**📌 Hoje:** Nada   
+**🚧 Impedimentos:** Não   
+
+---
+
+### 👤 Leano Guerreiro 
+
+**✅ Ontem:** Pesquisei soluções existentes para comparar com a nossa solução.
+Solução encontrada: Google Maps  
+**📌 Hoje:** Preencherei o Quadro Comparativo de Soluções Existentes com as informações da solução encontrada   
+**🚧 Impedimentos:** não   
+
+---
+
+### 👤 Taíza Paula
+
+**✅ Ontem:** Construção do plano de trabalho, alinhamento com a equipe sobre os progressos e impedimentos no projeto   
+**📌 Hoje:** Revisão do que já foi feito  
+**🚧 Impedimentos:** Não   
+
+---
+
+</details>
