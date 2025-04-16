@@ -313,3 +313,24 @@ Solução encontrada: Google Maps
 ---
 
 </details>
+
+<details>
+<summary>🗓️ Daily - 2025-04-16</summary>
+
+### 👤 Gregory Gabriel Ozaki Coelho
+
+**✅ Ontem:** Construção de personas, além disso, o squad conversou com o PO sobre os erros na ferramenta para desenvolver as personas, seguiremos com outras ferramentas agora.  
+**📌 Hoje:** Reunião com squad.  
+**🚧 Impedimentos:** Não.  
+
+---
+
+### 👤 Brayner Santana Brito 
+
+**✅ Ontem:** Ontem eu consegui encontrar um aplicativo que possui algumas funcionalidades similares às que estamos desenvolvendo no nosso projeto. Fiz uma breve análise a interface do usuário, no fluxo de trabalho e nas soluções técnicas que eles implementaram para resolver problemas parecidos com os nossos.  
+**📌 Hoje:** Hoje eu irei documentar o que encontrei na análise corporativa de soluções existentes do nosso projeto.  
+**🚧 Impedimentos:** Nenhum impedimento.  
+
+---
+
+</details>
