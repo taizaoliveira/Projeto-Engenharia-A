@@ -3,11 +3,11 @@
 |                         |                                                                                                                                            |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome do Projeto:**              | Nome oficial do software a ser desenvolvido. Deve refletir o propósito do sistema. <br> *Codinome:* Um nome alternativo ou abreviação do projeto.     |
-| **Versão:**                       | Indica a versão atual do plano ou do software. Pode seguir um padrão como 1.0, 1.1, etc.                                                                |
-| **Status:**                       | Define o estado atual do projeto (Exemplo: "Em desenvolvimento", "Concluído", "Aguardando aprovação").                                                 |
-| **Número de Controle SRBR-M:**    | Código de rastreamento interno para identificação do projeto. Pode ser um número fictício para controle acadêmico.                                     |
-| **Executor Principal:**           | A pessoa ou equipe responsável pelo desenvolvimento do software. Pode ser um nome criado pela equipe.                                                  |
-| **Coordenador do Projeto:**       | Responsável pela supervisão e orientação do projeto. No contexto acadêmico, pode ser o professor da disciplina.                                        |
+| **Versão:**                       | 1.0                                                              |
+| **Status:**                       | Em desenvolvimento                                               |
+| **Número de Controle SRBR-M:**    | SRBR-M-001                                     |
+| **Executor Principal:**           | Squad Bugs                                                  |
+| **Coordenador do Projeto:**       | Prof. Dr. Andrey Rodrigues                                        |
 
 
 ---
@@ -16,7 +16,7 @@
 
 | Versão | Descrição                | Autor   | Data   |
 |--------|--------------------------|---------|--------|
-| 1.0    | Elaboração do Plano      | Taíza  | 09/04/2025  |
+| 1.0    | Elaboração do Plano Inicial     | Taíza  | 09/04/2025  |
 
 ---
 
@@ -53,12 +53,10 @@
 ## 1. INTRODUÇÃO
 
 ### 1.1 Objeto
-Resumo do que será desenvolvido e sua função principal.  
-**Exemplo:** Sistema web para gestão de eventos acadêmicos com cadastro, submissão e emissão de certificados.
+O projeto consiste no desenvolvimento de um aplicativo móvel gratuito e acessível para auxiliar usuários a localizar medicamentos, comparar preços em farmácias, encontrar UBS/UPAs e sugerir medicamentos genéricos. A plataforma também incluirá recursos de acessibilidade e perfis personalizados.
 
 ### 1.2 Motivação, Justificativa e Oportunidade
-Explicação da relevância do projeto e os problemas que resolve.  
-**Exemplo:** Automatizar a gestão de eventos acadêmicos que hoje é feita de forma manual.
+Dificuldades em encontrar medicamentos, filas em UBSs e desinformação sobre preços e disponibilidade afetam diretamente a população, especialmente os mais vulneráveis. O projeto surge como uma solução integradora, oferecendo um app fácil de usar, com recursos inclusivos e suporte à tomada de decisão em saúde pública.
 
 ### 1.3 Caracterização do Projeto
 
