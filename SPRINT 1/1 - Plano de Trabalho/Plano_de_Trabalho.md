@@ -84,41 +84,42 @@ Dificuldades em encontrar medicamentos, filas em UBSs e desinformação sobre pr
 ## 2. INFORMAÇÕES GERAIS
 
 ### 2.1 Escopo Geral
-Visão ampla do sistema e suas funcionalidades principais.  
-**Exemplo:** Cadastro de eventos, inscrição, submissão de trabalhos e certificados.
+Desenvolver um app mobile com funcionalidades de busca e comparação de medicamentos, localização de unidades de saúde e funcionalidades para diferentes tipos de usuários (cidadãos, suporte, diretores).
 
 ### 2.1.1 Escopo Específico
-- Cadastro e gerenciamento de eventos  
-- Inscrição e controle de presença  
-- Submissão e avaliação de trabalhos  
-- Emissão de certificados digitais  
-- Painel administrativo para organizadores  
+- Localização de UBS, UPAs e farmácias via GPS
+- Consulta de disponibilidade e preços de medicamentos
+- Sugestões de genéricos com base em IA
+- Modo visitante sem necessidade de login
+- Painel para diretores e suporte
+- Recursos de acessibilidade (voz, leitura de tela) 
 
 ### 2.1.2 Escopo Negativo
-- Sem integração com redes sociais  
-- Sem app mobile (versão web responsiva apenas)  
-- Sem IA avançada para análise de dados  
+- O sistema não realizará agendamento de consultas
+- Não incluirá integração com redes sociais para login
+- Não terá funcionalidades avançadas de IA para diagnóstico clínico
 
 ### 2.2 Ambiente de Desenvolvimento
 
 | Componente             | Tecnologia/Ferramenta                     |
 |------------------------|-------------------------------------------|
 | Metodologia            | Scrum com sprints                         |
-| Gerenciamento de Backlog | GitHub                                  |
+| Gerenciamento de Backlog | GitHub Projects                                 |
 | Repositório de Código  | GitHub                                   |
-| Modelagem de Software  | Draw.io (classes, telas)                  |
-| Desenvolvimento do MVP | Thunkable                 |
+| Modelagem de Software  | Draw.io, Figma, Canva, PowerPoint                  |
+| Desenvolvimento do MVP | Thunkable, Firebase                 |
 
 ### 2.3 Características Inovadoras do Projeto
-- Emissão automática de certificados  
-- Interface intuitiva e responsiva  
-- Plataforma unificada com todas as funcionalidades  
+- Integração de localização e comparação de preços em um só app
+- Sugestão de medicamentos genéricos por IA
+- Recursos de acessibilidade por voz
+- Perfis diferenciados para visitantes, suporte e diretores  
 
 ### 2.4 Resultados Esperados
-- Sistema funcional de gestão de eventos  
-- Redução de tempo e erros na organização  
-- Experiência de usuário aprimorada  
-- Relatórios completos de participação  
+- Um app funcional com mapa de estabelecimentos
+- Painel com sugestões de genéricos e preços
+- Experiência de uso inclusiva e leve
+- Repositório GitHub com documentação, Notion e versão navegável do app 
 
 ---
 
@@ -166,14 +167,18 @@ Visão ampla do sistema e suas funcionalidades principais.
 | Taíza Paula    |                  Scrum Master e Dev Mobile                                                  |
 
 ### 3.3 Backlog do Sprint
+Backlog disponível no GitHub Projects com sprints de 1 semana e tarefas divididas por fase (ideação, prototipação, desenvolvimento).
+link 
 Lista de tarefas comprometidas para a sprint. Baseado no backlog do produto.
 
 ### 3.4 Controle de Mudanças
-Define como as mudanças serão tratadas para evitar desorganização e atrasos.
+Qualquer mudança deve ser proposta via GitHub Issues e validada na reunião de planejamento semanal.
 
 ### 3.5 Gerenciamento de Comunicação
-
-O **gerenciamento de comunicação** define como a equipe interage durante o projeto para garantir alinhamento e produtividade. Isso inclui reuniões, canais de comunicação e ferramentas utilizadas.
+- **Sprint Planning**: Toda segunda-feira, 13h, via Google Meet ou presencial
+- **Daily Stand-ups**: Diário, 9h, via forms e armazenado no notion
+- **Sprint Review e Retrospective**: Sexta-feira, 13h
+- **Ferramentas**: WhatsApp, Notion, GitHub, Google Drive
 
 #### 🛠Principais elementos do gerenciamento de comunicação:
 
