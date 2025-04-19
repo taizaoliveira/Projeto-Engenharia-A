@@ -162,7 +162,7 @@ Desenvolver um app mobile com funcionalidades de busca e comparação de medicam
 | Andrey Rodrigues    |                  Product Owner (PO)                                                  |
 | Brayner Santana    |                  QA / Testes                                                  |
 | Gabriela Rodrigues    |                  Analista de Requisitos                                                  |
-| Gregory Gabriel    |                  UX/UI Designer                                                   |
+| Gregory Ozaki    |                  UX/UI Designer                                                   |
 | Leano Baba    |                  Dev Backend                                                  |
 | Taíza Paula    |                  Scrum Master e Dev Mobile                                                  |
 
