@@ -17,6 +17,8 @@
 | Versão | Descrição                | Autor   | Data   |
 |--------|--------------------------|---------|--------|
 | 1.0    | Elaboração do Plano Inicial     | Taíza  | 09/04/2025  |
+| 1.1    | Elaboração do Plano Inicial     | Taíza  | 12/04/2025  |
+| 1.2    | Elaboração do Plano Inicial     | Taíza  | 15/04/2025  |
 
 ---
 
