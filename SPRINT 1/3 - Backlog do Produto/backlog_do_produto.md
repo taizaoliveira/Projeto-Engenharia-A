@@ -1,6 +1,6 @@
 # 🗂️ Backlog do Produto
 
-Quadro visual com a organização das funcionalidades do projeto, distribuídas nas etapas de **Backlog**, **Especificação**, **Implementação**, **Revisão** e **Concluídas**, conforme a metodologia adotada.
+Quadro visual com a organização das funcionalidades do projeto, distribuídas nas etapas de Backlog, Especificação, Implementação, Revisão e Concluídas, conforme a metodologia adotada.
 
 ![Visualização do Quadro do Backlog do Produto]()
 
