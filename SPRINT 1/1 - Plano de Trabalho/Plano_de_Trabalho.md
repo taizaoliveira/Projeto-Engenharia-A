@@ -2,7 +2,8 @@
 
 |                         |                                                                                                                                            |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome do Projeto:**              | Nome oficial do software a ser desenvolvido. Deve refletir o propósito do sistema. <br> *Codinome:* Um nome alternativo ou abreviação do projeto.     |
+| **Nome do Projeto:**              | Aplicativo de Localização e Informação Vinculado a Saúde.      |
+| **Codinome:**                       | LIVS                                                              |
 | **Versão:**                       | 1.0                                                              |
 | **Status:**                       | Em desenvolvimento                                               |
 | **Número de Controle SRBR-M:**    | SRBR-M-001                                     |
