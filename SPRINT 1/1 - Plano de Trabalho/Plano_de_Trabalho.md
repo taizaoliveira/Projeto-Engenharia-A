@@ -4,7 +4,7 @@
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome do Projeto:**              | Aplicativo de Localização e Informação Vinculado a Saúde.      |
 | **Codinome:**                       | LIVS                                                              |
-| **Versão:**                       | 1.0                                                              |
+| **Versão:**                       | 1.2                                                              |
 | **Status:**                       | Em desenvolvimento                                               |
 | **Número de Controle SRBR-M:**    | SRBR-M-001                                     |
 | **Executor Principal:**           | Squad Bugs                                                  |
