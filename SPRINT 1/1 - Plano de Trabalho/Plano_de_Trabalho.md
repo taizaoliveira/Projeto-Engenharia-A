@@ -2,8 +2,8 @@
 
 |                         |                                                                                                                                            |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome do Projeto:**              | Aplicativo de Localização Integrado para Visualização de Informações e Acesso às Unidades de Sáude de Itacoatiara - AM.      |
-| **Codinome:**                       | LIVIA.us                                                             |
+| **Nome do Projeto:**              | Aplicativo de Localização Integrado para Visualização de Informações e Acesso às Unidades Básicas de Saúde de Itacoatiara - AM.      |
+| **Codinome:**                       | LIVIA.UBS                                                             |
 | **Versão:**                       | 1.2                                                              |
 | **Status:**                       | Em desenvolvimento                                               |
 | **Número de Controle SRBR-M:**    | SRBR-M-001                                     |
