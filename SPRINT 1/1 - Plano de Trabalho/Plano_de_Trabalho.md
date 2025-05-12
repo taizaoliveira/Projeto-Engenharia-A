@@ -87,19 +87,20 @@ A criação de um aplicativo móvel gratuito e acessível para localizar Unidade
 ## 2. INFORMAÇÕES GERAIS
 
 ### 2.1 Escopo Geral
-Desenvolver um aplicativo móvel gratuito para auxiliar os moradores de Itacoatiara a localizar as UBSs da cidade, visualizar suas áreas de atendimento, acessar conteúdos informativos sobre saúde, utilizar um canal de atendimento via chat e contar com recursos de acessibilidade e perfis personalizados (cidadãos, visitantes, enfermeiros e acessibilidade).
+Desenvolver um aplicativo móvel gratuito com foco na saúde pública, voltado para facilitar o acesso da população de Itacoatiara às Unidades Básicas de Saúde (UBSs). A solução visa centralizar informações essenciais sobre localização, área de cobertura por bairro, campanhas e eventos locais, além de oferecer recursos de acessibilidade e um canal direto de comunicação com as unidades. O aplicativo será intuitivo, leve e permitirá a navegação básica sem necessidade de login.
 
 ### 2.1.1 Escopo Específico
-- Localização e informações de UBSs.
-- Postagens sobre saúde.
-- Chat com um profissional da saúde.
-- Modo visitante sem necessidade de login
-- Recursos de acessibilidade (voz, leitura de tela) 
+- Georreferenciamento das UBSs da cidade.
+- Visualização da área de cobertura de cada UBS, segmentada por bairros.
+- Feed com campanhas, ações de saúde e eventos por unidade.
+- Canal de atendimento via chat com informações sobre funcionamento, serviços e horários.
+- Navegação no modo visitante (sem necessidade de login).
+- Funcionalidades de acessibilidade (voz e leitura de tela). 
 
 ### 2.1.2 Escopo Negativo
-- O sistema não realizará agendamento de consultas
-- Não incluirá integração com redes sociais para login
-- Não terá funcionalidades avançadas de IA para diagnóstico clínico
+- O aplicativo não permitirá agendamento de consultas médicas.
+- Não terá integração com redes sociais ou autenticação por terceiros.
+- Não incluirá funcionalidades de triagem ou diagnósticos automatizados com base em sintomas.
 
 ### 2.2 Ambiente de Desenvolvimento
 
@@ -112,15 +113,18 @@ Desenvolver um aplicativo móvel gratuito para auxiliar os moradores de Itacoati
 | Desenvolvimento do MVP | Thunkable, Firebase                 |
 
 ### 2.3 Características Inovadoras do Projeto
-- Integração de localização e comparação de preços em um só app
-- Sugestão de medicamentos genéricos por IA
-- Recursos de acessibilidade por voz
-- Perfis diferenciados para visitantes, suporte e diretores  
+- Mapeamento detalhado das UBSs com visualização clara de áreas de abrangência por bairro.
+- Feed informativo e atualizado com campanhas de vacinação, eventos e ações comunitárias.
+- Acessibilidade por voz e leitura de tela integrada desde a primeira tela.
+- Chat com dúvidas frequentes sobre horários e serviços disponíveis.
+- Uso sem login obrigatório, promovendo inclusão digital e facilidade de acesso. 
 
 ### 2.4 Resultados Esperados
-- Um app funcional com mapa de estabelecimentos
-- Painel com sugestões de genéricos e preços
-- Experiência de uso inclusiva e leve
+- Um aplicativo funcional que localiza e descreve UBSs com base na localização do usuário.
+- Visualização da área de atuação de cada UBS, com filtros por bairro.
+- Feed ativo com conteúdos locais relevantes, campanhas e eventos.
+- Canal de dúvidas via chat, com respostas básicas e direcionamento.
+- Aplicativo acessível e leve, com uso descomplicado, inclusive por idosos ou pessoas com deficiência.
 - Repositório GitHub com documentação, Notion e versão navegável do app 
 
 ---
