@@ -4,44 +4,36 @@ O acesso à atenção básica em saúde no Brasil ainda enfrenta obstáculos com
 
 ## Objetivo do Projeto
 
-Desenvolver um aplicativo móvel gratuito que permita aos cidadãos:
-- Localizar UBS, UPAs e farmácias populares;
-- Consultar a disponibilidade e o preço de medicamentos;
-- Receber sugestões de genéricos por meio de inteligência artificial;
-- Utilizar comandos de voz e recursos inclusivos;
-- Acessar o conteúdo como visitante ou com cadastro, conforme a necessidade.
+Desenvolver um aplicativo mobile gratuito que permita aos cidadãos:
+- Localizar UBSs de forma georreferenciada;
+- Consultar a área de cobertura de cada unidade por bairro;
+- Acompanhar campanhas, eventos e ações de saúde em tempo real;
+- Navegar com ou sem login, conforme a necessidade;
+- Acessar informações por voz e leitura de tela;
+- Tirar dúvidas básicas sobre serviços, horários e atendimentos via chat automatizado.
 
 ## Principais Funcionalidades do App
 
-- **Localização Inteligente**: Encontre rapidamente farmácias, UBS e UPAs próximas usando geolocalização.
-- **Consulta de Medicamentos**: Veja a disponibilidade e os preços atualizados por local.
-- **Sugestão de Genéricos com IA**: Economia e autonomia com sugestões automáticas de genéricos equivalentes.
-- **Modo Visitante**: Acesse informações básicas sem a necessidade de login.
-- **Perfis Personalizados**: Usuário comum, visitante, suporte técnico e gestor de unidade.
-- **Acessibilidade Nativa**: Comandos por voz, leitura de tela e design adaptado para pessoas com deficiência.
+- Mapa das UBSs: Localização geográfica das unidades com filtros por bairro.
+- Cobertura Territorial: Visualização das áreas atendidas por cada UBS.
+- Feed Comunitário de Saúde: Informações atualizadas sobre eventos, mutirões e campanhas locais.
+- Chat de Informações: Canal automatizado para responder perguntas frequentes.
+- Acesso Livre: Funcionalidades essenciais disponíveis sem necessidade de login.
+- Acessibilidade Nativa: Comandos por voz, leitura de tela e design inclusivo.
 
 ## Vantagens do App 
 
 ### Para os Cidadãos:
 
-- **Acesso Descomplicado**: Informações claras e acessíveis sobre onde encontrar medicamentos.
-- **Economia e Eficiência**: Compare preços e encontre opções genéricas recomendadas.
-- **Inclusão Digital**: Interface amigável com suporte a comandos de voz e leitura de tela.
-- **Sem Barreiras**: Modo visitante para uso rápido e direto, sem burocracia.
+- Informação Rápida e Confiável: Saiba onde ir, o que esperar e quando participar.
+- Facilidade de Acesso: Pensado para funcionar bem mesmo em dispositivos simples ou com baixa conectividade.
+- Inclusão Digital e Social: Design acessível, sem exigências burocráticas.
 
 ### Para os Profissionais de Saúde:
 
-- **Gestão de Informações**: Painel para atualizar dados sobre disponibilidade de medicamentos.
-- **Visão Estratégica**: Acesso a dados que ajudam na organização da farmácia e distribuição de remédios.
-
-### Para as Secretarias de Saúde e Gestores:
-
-- **Ferramenta de Apoio à Gestão Pública**: Visão clara sobre a demanda e disponibilidade dos medicamentos.
-- **Redução de Demandas Presenciais**: Diminui filas e aglomerações com informações acessíveis via app.
-- **Inclusão Social e Territorial**: Um app pensado para todo o Brasil, não apenas para grandes centros.
+- Menos Dúvidas, Mais Eficiência: Centralização das informações reduz a sobrecarga das unidades.
+- Engajamento Comunitário: Ferramenta para promover campanhas de saúde com maior alcance.
 
 ## Impacto Esperado
 
-Com o **APP**, buscamos **melhorar a qualidade do atendimento público em saúde**, **facilitar o acesso à informação segura** e **aumentar a autonomia da população**, especialmente de grupos que enfrentam maiores dificuldades para obter medicamentos. Trata-se de uma solução escalável, de código aberto e com grande potencial de impacto social.
-
-Este projeto não apenas conecta usuários ao que precisam, mas também representa um avanço em acessibilidade, inteligência aplicada à saúde e transformação digital no setor público. Ao colocar o cidadão no centro da solução, promovemos **eficiência, empatia e inovação** na saúde pública brasileira.
+O APP LIVIA.us busca fortalecer a atenção básica em saúde, promovendo a autonomia da população por meio da informação acessível, geolocalização e comunicação digital eficiente. Com potencial de impacto em diversas regiões do país, a solução é escalável, inclusiva e pensada para aproximar o cidadão da saúde pública de forma empática, prática e inovadora.
