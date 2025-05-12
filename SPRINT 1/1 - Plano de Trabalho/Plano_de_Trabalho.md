@@ -66,21 +66,21 @@ A criação de um aplicativo móvel gratuito e acessível para localizar Unidade
 #### 1.3.1 Classe
 | Classe             | Detalhamento                                                         |
 |--------------------|----------------------------------------------------------------------|
-| Aplicativo Móvel   | Ex: App para agendamento de consultas médicas.                      |
+| Aplicativo Móvel   | Aplicativo gratuito e acessível voltado para dispositivos móveis, desenvolvido para auxiliar a população de Itacoatiara na localização das UBSs e no acesso a informações de saúde. Conta com mapa interativo com áreas de atendimento, publicações educativas, canal de atendimento via chat e recursos de acessibilidade para diferentes perfis de usuários.    |
 
 #### 1.3.2 Enquadrabilidade
 | Enquadrabilidade    | Detalhamento                                                      |
 |---------------------|-------------------------------------------------------------------|
-| Software Educacional | Usado por universidades.                                         |
-| Software Comercial   | Gestão financeira para pequenas empresas.                        |
-| Open Source          | Ex: Gerenciador de tarefas no GitHub.                            |
-| Software de Pesquisa | Ex: Análise de dados biomédicos.                                 |
+| Software de Interesse Social | O aplicativo promove a inclusão digital e o acesso à informação em saúde, atendendo populações com baixa conectividade e mobilidade reduzida.   |
+| Aplicativo de Utilidade Pública | Destinado ao uso da população em geral para facilitar a localização de unidades de saúde e acesso a conteúdos informativos sobre cuidados com a saúde. |
+| Tecnologias Assistivas     | Inclui funcionalidades de acessibilidade, como leitor de tela, design responsivo e navegação simplificada, promovendo o acesso de pessoas com deficiência. |
 
 #### 1.3.3 Tipo
 | Tipo                  | Detalhamento                                                                 |
 |-----------------------|------------------------------------------------------------------------------|
-| Desenvolvimento       | Construção de um novo sistema.                                               |
-| Trabalho Acadêmico    | Realizado no contexto de uma disciplina.                                     |
+| Desenvolvimento         | Construção de um aplicativo móvel com funcionalidades voltadas para a realidade local.           |
+| Trabalho Acadêmico      | Projeto desenvolvido no contexto da disciplina de Engenharia de Software I como proposta prática. |
+| Projeto de Impacto Social | Voltado à solução de problemas enfrentados pela população de Itacoatiara no acesso à saúde.   |
 
 ---
 
