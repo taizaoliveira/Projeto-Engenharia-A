@@ -1,6 +1,6 @@
 # APP LIVIA.us
 
-O acesso à saúde pública no Brasil ainda enfrenta desafios significativos relacionados à localização de medicamentos, disponibilidade em UBS/UPAs, preços elevados e dificuldades de mobilidade ou acessibilidade digital por parte da população. Pensando nisso, o projeto **Dose Certa** propõe um aplicativo inclusivo e inteligente, que **facilita a busca por medicamentos**, **compara preços**, **localiza estabelecimentos de saúde próximos** e **sugere alternativas mais acessíveis**, tudo isso com recursos de acessibilidade e perfis personalizados.
+O acesso à atenção básica em saúde no Brasil ainda enfrenta obstáculos como a falta de informação sobre qual UBS procurar, quais serviços estão disponíveis e quando acontecem campanhas e eventos de saúde. Essa realidade afeta principalmente comunidades periféricas, onde o acesso à informação digital é limitado. Pensando nisso, o projeto LIVIA.us propõe um aplicativo leve, gratuito e acessível, que mapeia UBSs, exibe áreas de cobertura, divulga ações locais e oferece um canal direto de informações com as unidades de saúde.
 
 ## Objetivo do Projeto
 
