@@ -2,9 +2,9 @@
 
 |                         |                                                                                                                                            |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome do Projeto:**              | Aplicativo de Localização Integrado para Visualização de Informações e Acesso às Unidades Básicas de Saúde de Itacoatiara - AM.      |
-| **Codinome:**                       | LIVIA.UBS                                                             |
-| **Versão:**                       | 1.2                                                              |
+| **Nome do Projeto:**              | Aplicativo de Localização Integrado para Visualização de Informações e Acesso às Unidades de Saúde de Itacoatiara - AM.      |
+| **Codinome:**                       | LIVIA.us                                                             |
+| **Versão:**                       | 1.3                                                              |
 | **Status:**                       | Em desenvolvimento                                               |
 | **Número de Controle SRBR-M:**    | SRBR-M-001                                     |
 | **Executor Principal:**           | Bugs Squad                                                 |
@@ -18,8 +18,9 @@
 | Versão | Descrição                | Autor   | Data   |
 |--------|--------------------------|---------|--------|
 | 1.0    | Elaboração do Plano Inicial     | Taíza  | 09/04/2025  |
-| 1.1    | Elaboração do Plano Inicial     | Taíza  | 12/04/2025  |
-| 1.2    | Elaboração do Plano Inicial     | Taíza  | 15/04/2025  |
+| 1.1    | Revisão e ajustes no Plano Inicial     | Taíza  | 12/04/2025  |
+| 1.2    | Atualização do Plano Inicial com novas informações e ajustes    | Taíza  | 15/04/2025  |
+| 1.3    | Revisão eAtualização do Plano com inclusão de novas informações e ajustes finais    | Taíza  | 12/05/2025  |
 
 ---
 
@@ -131,32 +132,63 @@ Desenvolver um aplicativo móvel gratuito com foco na saúde pública, voltado p
 
 ## 3. METODOLOGIA DE PROJETO
 
-### 3.1 Estrutura do Projeto
+### 3.1 Estrutura do Projeto  
+O desenvolvimento do aplicativo será dividido em fases estratégicas, cada uma com etapas específicas que visam garantir clareza, alinhamento com as necessidades dos usuários e viabilidade técnica da solução.  
+**Fases:**  
+#### 1. **Conceito/Ideia**
+#### **Definição do problema**   
+A população em geral, especialmente em regiões periféricas e com menor acesso à informação digital, enfrenta dificuldades para acessar serviços essenciais de saúde pública devido à falta de comunicação clara, centralizada e acessível sobre o funcionamento das Unidades Básicas de Saúde (UBSs). Muitas pessoas não sabem qual unidade devem procurar, desconhecem os serviços disponíveis, e não têm acesso a informações sobre campanhas, eventos e ações de saúde promovidas em suas comunidades. Essa lacuna de informação reduz o engajamento da população com a atenção primária à saúde, sobrecarrega outros níveis de atendimento (como UPAs e hospitais) e compromete a eficácia das políticas públicas de prevenção. O aplicativo LIVIA.us surge como resposta a esse cenário, buscando aproximar a população dos serviços públicos de saúde por meio de uma plataforma acessível, intuitiva e centrada nas necessidades reais dos usuários.   
+🔗 [Acessar o Enquadramento do Problema](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%201/2%20-%20Design%20Thinking/FASE%20I%20-%20INSPIRA%C3%87%C3%83O/1.%20Enquadramento%20do%20Problema%20-%20Golden%20Circle.md)   
+    
+#### **Análise de concorrentes**    
+O projeto "LIVIA.us" se diferencia por focar exclusivamente nas UBS e na inclusão digital, mas enfrenta concorrência de soluções já implementadas no setor público de saúde. Entre os principais concorrentes estão:    
+- Mais Saúde Fortaleza: App da Prefeitura de Fortaleza com foco em serviços de saúde, como agendamentos, localização de postos e lembretes de vacinação.
+- e-saudeSP: Plataforma integrada da Prefeitura de São Paulo com IA para triagem, dados unificados do paciente e localização de UBS e farmácias.
+- Google Maps: Embora não voltado à saúde, é amplamente utilizado para localização de unidades, com rotas, avaliações e integração com estabelecimentos.  
+  
+🔗 [Acessar a Exploração de Mercado](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%201/2%20-%20Design%20Thinking/FASE%20I%20-%20INSPIRA%C3%87%C3%83O/2.%20Explora%C3%A7%C3%A3o%20do%20Mercado.md)    
+    
+#### **Identificação de diferenciais**    
+A Tabela abaixo apresenta um quadro comparativo entre soluções digitais voltadas à área da saúde e serviços geolocalizados, com o objetivo de evidenciar os principais diferenciais da proposta aqui desenvolvida — o aplicativo LIVIA.us. Nota-se que, embora existam aplicações amplamente utilizadas como o Mais Saúde Fortaleza, o e-saudeSP e até mesmo o Google Maps, estas apresentam limitações quanto à adaptação ao contexto local, acessibilidade integral e vínculo com as unidades de saúde de base comunitária.     
+Neste cenário, o LIVIA.us se destaca por seu enfoque territorial na cidade de Itacoatiara (AM), pela utilização de tecnologias acessíveis e de baixo custo, e pelo compromisso com a inclusão digital e a acessibilidade, ao incorporar funcionalidades como leitores de tela e conexão direta com Unidades Básicas de Saúde (UBS).   
+  
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Wi4cwYJDmGM6BpviyBX9OfVaYkaM5kvJ" height="600"  width="800"/>
+</p>
 
-**Fases:**
-1. **Conceito/Ideia**  
-   - Definição do problema  
-   - Análise de concorrentes  
-   - Identificação de diferenciais  
-   - Perfis de usuários  
 
-2. **Levantamento de Requisitos**  
-   - Refinamento do backlog  
-   - Critérios de aceitação  
-   - Regras de negócio  
+   
+#### **Perfis de usuários**   
+Com base na abordagem de design centrado no ser humano, foram definidas quatro personas para orientar o desenvolvimento funcional e inclusivo do aplicativo LIVIA.us, considerando o contexto socioeconômico e os padrões de uso da população de Itacoatiara (AM).
+- Usuário Cadastrado: representa o cidadão que utiliza o aplicativo de forma recorrente, com conta ativa. Este perfil possui acesso ampliado às funcionalidades do sistema, incluindo chat com profissionais de saúde. Trata-se de um usuário engajado, interessado em manter-se informado sobre a saúde pública local e em dialogar com a rede de atenção básica.
+- Visitante: caracteriza o usuário eventual, que navega no aplicativo sem a necessidade de login. Tem acesso apenas às funcionalidades básicas, como a visualização de UBS próximas, horários de funcionamento e localização. Não possui acesso ao chat, priorizando uma experiência rápida, leve e eficiente, mesmo em situações de conectividade limitada.
+- Enfermeiro: corresponde ao profissional da área da saúde que utiliza o app como ferramenta de apoio à comunicação com a comunidade. Atua na atualização de informações locais e no atendimento via chat, representando o elo direto entre a atenção básica e os cidadãos cadastrados.
+- Usuário com Necessidades de Acessibilidade: abrange indivíduos com deficiência visual, auditiva ou motora. Este perfil é contemplado com funcionalidades como leitura de tela, comandos por voz, botões ampliados e interface simplificada, reforçando o compromisso do projeto com a inclusão digital e o acesso equitativo à saúde..
 
-3. **Projeto e Arquitetura**  
+🔗 [Acessar as Personas do Projeto ](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%201/2%20-%20Design%20Thinking/FASE%20I%20-%20INSPIRA%C3%87%C3%83O/3.%20Conhecendo%20o%20usu%C3%A1rio%20-%20Persona.md)   
+
+#### 2. **Levantamento de Requisitos**  
+A fase de levantamento e especificação de requisitos teve como objetivo identificar, organizar e validar as funcionalidades essenciais para o desenvolvimento do aplicativo LIVIA.us, garantindo alinhamento com as necessidades reais dos usuários e com os objetivos do projeto. Foram adotadas práticas de Engenharia de Requisitos centradas no usuário, com base em entrevistas, definição de personas, estudo de campo e priorização contínua por meio de backlog refinado.  
+O processo incluiu:  
+- Levantamento de Requisitos: identificação inicial de funcionalidades e restrições do sistema, considerando aspectos técnicos, sociais e contextuais da cidade de Itacoatiara.
+- Refinamento do Backlog: organização iterativa e incremental das funcionalidades, utilizando critérios de prioridade, valor social e viabilidade técnica.
+- Critérios de Aceitação: definição objetiva de condições mínimas para considerar uma funcionalidade como "pronta", garantindo clareza e qualidade nas entregas.
+- Regras de Negócio: descrição das normas, restrições e comportamentos esperados no sistema, de acordo com os fluxos reais das unidades de saúde e o perfil dos usuários.    
+  
+🔗 [Detalhamento da Fase de Requisitos ](https://github.com/users/taizaoliveira/projects/2)  
+
+#### 3. **Projeto e Arquitetura**  
    - Modelagem de telas e navegação  
    - Arquitetura do sistema  
    - Diagramas de classes  
    - Prioridades para o MVP  
 
-4. **Projeto dos Casos de Teste**  
+#### 4. **Projeto dos Casos de Teste**  
    - Cenários de teste  
    - Casos baseados em histórias de usuário  
    - Critérios de sucesso  
 
-5. **Desenvolvimento do MVP**  
+#### 5. **Desenvolvimento do MVP**  
    - Implementação no framework X  
    - Testes e ajustes iterativos  
    - Apresentação e validação  
@@ -173,36 +205,36 @@ Desenvolver um aplicativo móvel gratuito com foco na saúde pública, voltado p
 | Taíza Paula    |                  Scrum Master e Dev Mobile                                                  |
 
 ### 3.3 Backlog do Sprint
-Backlog disponível no GitHub Projects com sprints de 1 semana e tarefas divididas por fase (ideação, prototipação, desenvolvimento).
-link 
-Lista de tarefas comprometidas para a sprint. Baseado no backlog do produto.
+O desenvolvimento do aplicativo LIVIA.us é conduzido de forma incremental, com uso de Sprints semanais organizadas no GitHub Projects. O backlog do sprint é derivado do backlog do produto e contém as tarefas comprometidas para o ciclo atual, priorizadas com base no valor para o usuário e na viabilidade técnica.  
+As tarefas estão categorizadas por fase do projeto — Backlog, Em progresso e Concluídas — o que permite uma visualização clara do progresso e facilita o acompanhamento por toda a equipe.  
+O planejamento semanal é orientado por reuniões de alinhamento e revisões periódicas, assegurando a adaptação contínua às demandas do projeto.
 
 ### 3.4 Controle de Mudanças
-Qualquer mudança deve ser proposta via GitHub Issues e validada na reunião de planejamento semanal.
+O controle de mudanças no projeto LIVIA.us é realizado de forma estruturada, visando garantir a rastreabilidade, a organização e a validação coletiva das alterações propostas. Qualquer modificação no escopo, funcionalidades ou prioridades do backlog deve ser formalizada por meio de GitHub Issues, onde a proposta é documentada, justificada e discutida.  
+As mudanças são avaliadas durante a reunião de planejamento semanal, momento em que a equipe decide, de forma colaborativa, sobre a aceitação, priorização ou replanejamento das tarefas impactadas. Essa abordagem assegura transparência, controle e alinhamento contínuo com os objetivos do projeto e as necessidades dos usuários.
+  
+🔗 [Mudanças via GitHub Issues ](https://github.com/taizaoliveira/Projeto-Engenharia-A/issues?q=is%3Aissue%20state%3Aopen)  
 
 ### 3.5 Gerenciamento de Comunicação
-- **Sprint Planning**: Toda segunda-feira, 13h, via Google Meet ou presencial
-- **Daily Stand-ups**: Diário, 9h, via forms e armazenado no notion
-- **Sprint Review e Retrospective**: Sexta-feira, 13h
-- **Ferramentas**: WhatsApp, Notion, GitHub, Google Drive
+O gerenciamento de comunicação no projeto LIVIA.us é essencial para garantir a colaboração eficiente entre os membros da equipe, promovendo transparência, alinhamento e agilidade nas decisões. Foram definidas rotinas fixas de comunicação, bem como o uso de ferramentas colaborativas que facilitam o acompanhamento das atividades e o registro de decisões.  
+As práticas de comunicação seguem os princípios das metodologias ágeis, com rituais semanais e diários conforme a tabela a seguir:
 
-#### 🛠Principais elementos do gerenciamento de comunicação:
+O gerenciamento de comunicação no projeto **LIVIA.us** foi estruturado para garantir alinhamento constante entre os membros da equipe, utilizando práticas ágeis e ferramentas colaborativas. Abaixo, detalhamos os principais rituais e canais adotados:
 
-- **Reuniões de Planejamento (Sprint Planning)** – No início de cada sprint, a equipe define as tarefas e prioridades.
-- **Daily Stand-ups (Reuniões Diárias)** – Curtas reuniões diárias (5 a 10 min) para sincronizar o progresso e remover impedimentos.
-- **Sprint Review (Revisão da Sprint)** – No final da sprint, a equipe apresenta o que foi feito.
-- **Sprint Retrospective (Retrospectiva da Sprint)** – Discussão sobre o que funcionou bem e o que pode ser melhorado.
-- **Ferramentas de Comunicação** – O grupo pode usar **Discord**, **Slack** ou **WhatsApp** para conversas rápidas.
+####  Práticas de Comunicação
 
----
+|       **Práticas**               | **Frequência**     | **Horário** | **Formato**                        | **Objetivo**                                                  |
+|----------------------------------|--------------------|-------------|------------------------------------|---------------------------------------------------------------|
+| Sprint Planning                  | Semanal (segunda)  | 13h         | Google Meet ou presencial          | Planejamento e definição das tarefas da sprint                |
+| Daily Stand-up                   | Diária             | 9h          | Formulário (Google Forms + Notion) | Compartilhamento de progresso, bloqueios e próximos passos    |
+| Sprint Review e Retrospective    | Semanal (sexta)    | 13h         | Google Meet  ou Presencial                      | Apresentação de entregas, feedbacks e melhorias contínuas     |
 
-#### Exemplo de Comunicação Efetiva (item obrigatório no trabalho)
+#### 🛠️ Ferramentas Utilizadas
 
-- Toda segunda-feira, a equipe faz o **Sprint Planning** para definir o que será desenvolvido na semana.
-- Todos os dias, às 9h, há um **Daily Stand-up** onde cada membro responde:  
-  *"O que fiz ontem? O que farei hoje? Tenho algum impedimento?"*
-- No final da sprint, a equipe realiza uma **Sprint Review** para demonstrar o que foi entregue e uma **Sprint Retrospective** para discutir melhorias.
+- **WhatsApp**: Comunicação rápida e informal da equipe
+- **Notion**: Registro de dailies, documentos e decisões
+- **GitHub**: Controle de versões, issues e organização de sprints
+- **Google Drive**: Armazenamento e compartilhamento de arquivos
 
 
----
 
