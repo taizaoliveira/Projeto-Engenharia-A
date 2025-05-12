@@ -1,4 +1,4 @@
-# APP
+# APP LIVIA.us
 
 O acesso à saúde pública no Brasil ainda enfrenta desafios significativos relacionados à localização de medicamentos, disponibilidade em UBS/UPAs, preços elevados e dificuldades de mobilidade ou acessibilidade digital por parte da população. Pensando nisso, o projeto **Dose Certa** propõe um aplicativo inclusivo e inteligente, que **facilita a busca por medicamentos**, **compara preços**, **localiza estabelecimentos de saúde próximos** e **sugere alternativas mais acessíveis**, tudo isso com recursos de acessibilidade e perfis personalizados.
 
