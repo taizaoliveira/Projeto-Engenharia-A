@@ -56,10 +56,10 @@
 ## 1. INTRODUÇÃO
 
 ### 1.1 Objeto
-O projeto consiste no desenvolvimento de um aplicativo móvel gratuito e acessível para auxiliar usuários a localizar medicamentos, comparar preços em farmácias, encontrar UBS/UPAs e sugerir medicamentos genéricos. A plataforma também incluirá recursos de acessibilidade e perfis personalizados.
+O projeto tem como objetivo desenvolver um aplicativo móvel gratuito e acessível para ajudar os usuários a localizar as Unidades Básicas de Saúde (UBSs) na cidade de Itacoatiara. O app também mostrará as áreas de atendimento de cada unidade, oferecerá conteúdos informativos sobre saúde por meio de publicações e contará com um canal de atendimento via chat. Além disso, a plataforma incluirá recursos de acessibilidade e perfis personalizados para melhor atender às necessidades dos usuários.
 
 ### 1.2 Motivação, Justificativa e Oportunidade
-Dificuldades em encontrar medicamentos, filas em UBSs e desinformação sobre preços e disponibilidade afetam diretamente a população, especialmente os mais vulneráveis. O projeto surge como uma solução integradora, oferecendo um app fácil de usar, com recursos inclusivos e suporte à tomada de decisão em saúde pública.
+A criação de um aplicativo móvel gratuito e acessível para localizar Unidades Básicas de Saúde (UBSs) em Itacoatiara surge da necessidade de facilitar o acesso da população aos serviços de saúde pública, especialmente em regiões com limitações de informação e mobilidade. A iniciativa é motivada pela carência de uma ferramenta digital centralizada que informe, de forma clara e acessível, sobre as áreas de atendimento de cada UBS, seus serviços e localização. Justifica-se, portanto, a importância de promover inclusão digital e social, oferecendo também conteúdos informativos sobre saúde, canal de atendimento via chat e recursos de acessibilidade que contemplam diferentes perfis de usuários. Essa proposta representa uma oportunidade de fortalecer a relação entre população e sistema de saúde, contribuindo para a melhoria da qualidade do atendimento e da disseminação de informações essenciais à promoção da saúde.
 
 ### 1.3 Caracterização do Projeto
 
@@ -87,14 +87,13 @@ Dificuldades em encontrar medicamentos, filas em UBSs e desinformação sobre pr
 ## 2. INFORMAÇÕES GERAIS
 
 ### 2.1 Escopo Geral
-Desenvolver um app mobile com funcionalidades de busca e comparação de medicamentos, localização de unidades de saúde e funcionalidades para diferentes tipos de usuários (cidadãos, suporte, diretores).
+Desenvolver um aplicativo móvel gratuito para auxiliar os moradores de Itacoatiara a localizar as UBSs da cidade, visualizar suas áreas de atendimento, acessar conteúdos informativos sobre saúde, utilizar um canal de atendimento via chat e contar com recursos de acessibilidade e perfis personalizados (cidadãos, visitantes, enfermeiros e acessibilidade).
 
 ### 2.1.1 Escopo Específico
-- Localização de UBS, UPAs e farmácias via GPS
-- Consulta de disponibilidade e preços de medicamentos
-- Sugestões de genéricos com base em IA
+- Localização e informações de UBSs.
+- Postagens sobre saúde.
+- Chat com um profissional da saúde.
 - Modo visitante sem necessidade de login
-- Painel para diretores e suporte
 - Recursos de acessibilidade (voz, leitura de tela) 
 
 ### 2.1.2 Escopo Negativo
