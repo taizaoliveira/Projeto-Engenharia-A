@@ -2,12 +2,12 @@
 
 |                         |                                                                                                                                            |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nome do Projeto:**              | Aplicativo de Localização e Informação Vinculado a Saúde.      |
-| **Codinome:**                       | LIVS                                                              |
+| **Nome do Projeto:**              | Aplicativo de Localização Integrado para Visualização de Informações e Acesso às Unidades de Sáude de Itacoatiara - AM.      |
+| **Codinome:**                       | LIVIA.us                                                             |
 | **Versão:**                       | 1.2                                                              |
 | **Status:**                       | Em desenvolvimento                                               |
 | **Número de Controle SRBR-M:**    | SRBR-M-001                                     |
-| **Executor Principal:**           | Squad Bugs                                                  |
+| **Executor Principal:**           | Bugs Squad                                                 |
 | **Coordenador do Projeto:**       | Prof. Dr. Andrey Rodrigues                                        |
 
 
