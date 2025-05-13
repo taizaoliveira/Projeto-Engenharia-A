@@ -209,6 +209,8 @@ O desenvolvimento do aplicativo LIVIA.us é conduzido de forma incremental, com 
 As tarefas estão categorizadas por fase do projeto — Backlog, Em progresso e Concluídas — o que permite uma visualização clara do progresso e facilita o acompanhamento por toda a equipe.  
 O planejamento semanal é orientado por reuniões de alinhamento e revisões periódicas, assegurando a adaptação contínua às demandas do projeto.
 
+🔗 [Backlog do Sprint ](https://github.com/users/taizaoliveira/projects/5/views/1)  
+
 ### 3.4 Controle de Mudanças
 O controle de mudanças no projeto LIVIA.us é realizado de forma estruturada, visando garantir a rastreabilidade, a organização e a validação coletiva das alterações propostas. Qualquer modificação no escopo, funcionalidades ou prioridades do backlog deve ser formalizada por meio de GitHub Issues, onde a proposta é documentada, justificada e discutida.  
 As mudanças são avaliadas durante a reunião de planejamento semanal, momento em que a equipe decide, de forma colaborativa, sobre a aceitação, priorização ou replanejamento das tarefas impactadas. Essa abordagem assegura transparência, controle e alinhamento contínuo com os objetivos do projeto e as necessidades dos usuários.
