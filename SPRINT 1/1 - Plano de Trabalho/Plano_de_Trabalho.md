@@ -199,7 +199,7 @@ O processo incluiu:
 |------------------|--------------------------------------------------------------------|
 | Andrey Rodrigues    |                  Product Owner (PO)                                                  |
 | Brayner Santana    |                  QA / Testes                                                  |
-| Gabriela Rodrigues    |                  Analista de Requisitos                                                  |
+| Gabriela Rodrigues    |                  QA / Testes                                                  |
 | Gregory Ozaki    |                  UX/UI Designer                                                   |
 | Leano Baba    |                  Dev Backend                                                  |
 | Taíza Paula    |                  Scrum Master e Dev Mobile                                                  |
