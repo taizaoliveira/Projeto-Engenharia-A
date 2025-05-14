@@ -229,7 +229,8 @@ O gerenciamento de comunicação no projeto **LIVIA.us** foi estruturado para ga
 |----------------------------------|--------------------|-------------|------------------------------------|---------------------------------------------------------------|
 | Sprint Planning                  | Semanal (segunda)  | 13h         | Google Meet ou presencial          | Planejamento e definição das tarefas da sprint                |
 | Daily Stand-up                   | Diária             | 9h          | Formulário (Google Forms + Notion) | Compartilhamento de progresso, bloqueios e próximos passos    |
-| Sprint Review e Retrospective    | Semanal (sexta)    | 13h         | Google Meet  ou Presencial                      | Apresentação de entregas, feedbacks e melhorias contínuas     |
+| Retrospective | Semanal (sexta) | 13h | Google Meet ou Presencial | Apresentação de entregas, feedbacks e melhorias continuas |
+| Sprint Review    | Mensal    | 20h às 22h         | Presencial com PO                      | Apresentação de entregas, feedbacks e melhorias contínuas     |
 
 #### 🛠️ Ferramentas Utilizadas
 
