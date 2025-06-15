@@ -4,7 +4,7 @@
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome do Projeto:**              | Aplicativo de Localização Integrado para Visualização de Informações e Acesso às Unidades de Saúde de Itacoatiara - AM.      |
 | **Codinome:**                       | LIVIA.us                                                             |
-| **Versão:**                       | 1.3                                                              |
+| **Versão:**                       | 1.4                                                              |
 | **Status:**                       | Em desenvolvimento                                               |
 | **Número de Controle SRBR-M:**    | SRBR-M-001                                     |
 | **Executor Principal:**           | Bugs Squad                                                 |
