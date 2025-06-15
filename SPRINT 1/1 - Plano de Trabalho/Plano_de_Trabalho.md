@@ -177,21 +177,61 @@ O processo incluiu:
   
 🔗 [Detalhamento da Fase de Requisitos ](https://github.com/users/taizaoliveira/projects/2)  
 
-#### 3. **Projeto e Arquitetura**  
-   - Modelagem de telas e navegação  
-   - Arquitetura do sistema  
-   - Diagramas de classes  
-   - Prioridades para o MVP  
+### 3. **Projeto e Arquitetura**  
+#### Modelagem de telas e navegação  
+`Em desenvolvimento ...`  
+
+#### Arquitetura do sistema  
+Esta etapa tem como objetivo planejar, representar e justificar a arquitetura da solução proposta, garantindo rastreabilidade com as histórias de usuário e alinhamento com os requisitos do sistema. A documentação foi organizada de forma modular, seguindo boas práticas e baseada no modelo C4.
+
+##### 🔹 Definição do Padrão Arquitetural
+Escolha e justificativa dos padrões arquiteturais utilizados, com base nos requisitos e nos objetivos do sistema.  
+📄 Arquivo: [`Padrao_Arquitetural.md`](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/1%20-%20Padr%C3%A3o%20Arquitetural/Padrao_Arquitetural.md) 
+
+---
+
+##### 🔹 Mapa de Tecnologias (Tech Stack)
+Mapeamento das tecnologias utilizadas organizadas por camada (frontend, backend, banco de dados etc.), incluindo justificativas.  
+📄 Arquivo: [`Tecnologias_e_Ferramentas.md`](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/2%20-%20Tecnologias%20e%20Ferramentas/Tecnologias_e_Ferramentas.md) 
+
+---
+
+##### 🔹 Modelo C4 – Representação Arquitetural
+Representação da arquitetura do sistema em diferentes níveis de abstração:
+
+- **Diagrama de Contexto:** Atores e sistemas externos  
+  📄 [`1_Diagrama_de_Contexto.md`](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/3%20-%20Arquitetura%20Modelo%20C4/1_Diagrama_de_Contexto.md) 
+
+- **Diagrama de Containers:** Blocos de execução, linguagens e comunicação  
+  📄 [`2_Diagrama_de_Containers.md`](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/3%20-%20Arquitetura%20Modelo%20C4/2_Diagrama_de_Containers.md)
+
+- **Diagrama de Componentes:** Serviços, controladores, repositórios e lógica interna  
+  📄 [`3_Diagrama_de_Componentes.md`](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/3%20-%20Arquitetura%20Modelo%20C4/3_Diagrama_de_Componentes.md)
+
+- **Diagrama de Código:** UML com classes, métodos e atributos  
+  📄 [`4_Diagrama_de_Código.md`](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/3%20-%20Arquitetura%20Modelo%20C4/4_Diagrama_de_C%C3%B3digo.md)
+
+---
+
+##### 🔹 Rastreabilidade com Histórias do Usuário
+Mapeamento entre as histórias do usuário e os componentes do sistema, indicando onde aparecem nos diagramas arquiteturais.  
+📄 Arquivo: [`Rastreabilidade_Historia_Usuario.md`](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/4%20-%20Rastreabilidade%20Com%20Hist%C3%B3rias%20do%20Usu%C3%A1rio/Rastreabilidade_Historia_Usuario.md)
+
+#### Diagramas de classes  
+`Em desenvolvimento ...`  
+
+#### Prioridades para o MVP  
+`Em desenvolvimento ...`  
 
 #### 4. **Projeto dos Casos de Teste**  
-   - Cenários de teste  
-   - Casos baseados em histórias de usuário  
-   - Critérios de sucesso  
+   - Cenários de teste `Em desenvolvimento ...`   
+   - Casos baseados em histórias de usuário  `Em desenvolvimento ...`
+   - Critérios de sucesso  `Em desenvolvimento ...`
 
 #### 5. **Desenvolvimento do MVP**  
-   - Implementação no framework X  
-   - Testes e ajustes iterativos  
-   - Apresentação e validação  
+   - Implementação no framework X  `Em desenvolvimento ...`
+   - Testes e ajustes iterativos  `Em desenvolvimento ...`
+   - Apresentação e validação  `Em desenvolvimento ...`
 
 ### 3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
 
