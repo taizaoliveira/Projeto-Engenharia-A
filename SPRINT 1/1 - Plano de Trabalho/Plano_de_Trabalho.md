@@ -21,6 +21,7 @@
 | 1.1    | Revisão e ajustes no Plano Inicial     | Taíza  | 12/04/2025  |
 | 1.2    | Atualização do Plano Inicial com novas informações e ajustes    | Taíza  | 15/04/2025  |
 | 1.3    | Revisão eAtualização do Plano com inclusão de novas informações e ajustes finais    | Taíza  | 12/05/2025  |
+| 1.4    | Inclusão da seção de Arquitetura do Sistema, com definição de padrão arquitetural, mapa de tecnologias, representação em múltiplos níveis segundo o modelo C4 (contexto, containers, componentes e código), e rastreabilidade com histórias do usuário. | Taíza | 15/06/2025 |
 
 ---
 
