@@ -6,4 +6,6 @@ Este nível de detalhe é importante para visualizar a arquitetura lógica e fí
 
 Abaixo, está representada a estrutura do sistema em containers, destacando os componentes internos e externos, assim como os fluxos de dados entre eles.
 
-![Diagrama de Containers]()
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1cq2Z3KdReELU0A4gSHFB_usqBuWFu8DX"/>
+</p>
