@@ -4,5 +4,7 @@ O diagrama de código, também conhecido como diagrama de classes UML, represent
 
 Abaixo, está o diagrama que define as classes principais da aplicação e como elas se interconectam.
 
-![Diagrama de Código]()
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id="/>
+</p>
 
