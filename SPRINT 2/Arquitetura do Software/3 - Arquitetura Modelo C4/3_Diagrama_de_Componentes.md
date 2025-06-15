@@ -6,5 +6,6 @@ Esse nível de modelagem ajuda a visualizar como as responsabilidades estão dis
 
 Abaixo, está o diagrama de componentes com os principais blocos internos organizados conforme as funcionalidades do sistema.
 
-![Diagrama de Componentes]()
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1sNqbZuXpFLnevztnnJLAu596jqoP2Ohd"/>
+</p>
