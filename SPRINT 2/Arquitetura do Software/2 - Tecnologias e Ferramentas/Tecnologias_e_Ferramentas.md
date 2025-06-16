@@ -1,3 +1,10 @@
+# Tech Stack Map 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1th1nuxu0PGgp1U7aOLtmSRIjOzM7hLzi" />
+</p>
+
+
+
 # Mapa de Tecnologias
 
 | Camada                 | Tecnologia                      | Justificativa                                                                                                                                                          |
