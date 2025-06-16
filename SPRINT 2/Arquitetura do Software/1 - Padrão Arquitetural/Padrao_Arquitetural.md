@@ -1,6 +1,6 @@
 # Padrões Arquiteturais
 
-A arquitetura do sistema **LIVIA.us** foi estruturada com foco em modularidade, separação de responsabilidades e interoperabilidade entre sistemas e tecnologias diversas. Para isso, adotamos os padrões **Arquitetura em Camadas** e **Client-Server**, que juntos oferecem uma base sólida para desenvolvimento ágil, manutenção simplificada e escalabilidade da solução.
+A arquitetura do sistema **LIVIA.us** foi estruturada com foco em modularidade, separação de responsabilidades e interoperabilidade entre sistemas e tecnologias diversas. Para isso, adotamos os padrões Arquitetura em Camadas e Client-Server, que juntos oferecem uma base sólida para desenvolvimento ágil, manutenção simplificada e escalabilidade da solução.
 
 ---
 
@@ -42,7 +42,7 @@ Um padrão arquitetural clássico em que os usuários (clientes) interagem com u
 
 - O **cliente** é o app mobile desenvolvido no Thunkable, que roda nos dispositivos dos usuários.
 - O **servidor** é composto pelo backend em Cloud Functions e os serviços Firebase que executam e armazenam dados sob demanda.
-- Comunicação entre cliente e servidor se dá via **requisições HTTPS** para autenticação, envio/consulta de publicações, localização de UBSs, entre outros.
+- Comunicação entre cliente e servidor se dá via requisições HTTPS para autenticação, envio/consulta de publicações, localização de UBSs, entre outros.
 
 ### Por que foi escolhido?
 
