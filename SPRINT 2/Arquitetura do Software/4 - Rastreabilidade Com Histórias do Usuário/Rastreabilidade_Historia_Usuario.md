@@ -10,6 +10,6 @@ A tabela a seguir consolida essas informações:
 
 | História do Usuário                                             | Componentes envolvidos                                   | Diagramas de referência            |
 |------------------------------------------------------------------|----------------------------------------------------------|------------------------------------|
-| "teste teste teste etste"                     | AppointmentController, AppointmentService, PostgreSQL     | Containers, Componentes            |
+|Como usuário, eu gostaria de me cadastrar no aplicativo com email, para que eu possa fazer login e acessar as funcionalidades no app.|Thunkable , Firebase Auth , Cloud Firestore , Cloud Functions (Firebase)  | Diagramas de Containers, Componentes, Classes|
 | "teste teste teste teste teste"         | DoctorDashboard, ConsultationRepository                  | Componentes, Código (classes)      |
 
