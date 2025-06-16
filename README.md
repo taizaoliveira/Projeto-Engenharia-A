@@ -34,25 +34,25 @@ Andrey Rodrigues
 ### Plano de Trabalho
 - :page_facing_up: [Plano de Trabalho](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%201/1%20-%20Plano%20de%20Trabalho/Plano_de_Trabalho.md)
 
-### Design Thinking
+### [Design Thinking](https://github.com/taizaoliveira/Projeto-Engenharia-A/tree/main/SPRINT%201/2%20-%20Design%20Thinking)
 - Golden Circle
 - SWOT
 - Quadro Comparativo
 - Personas
 
-### Backlog do Produto
+### [Backlog do Produto](https://github.com/users/taizaoliveira/projects/2/views/1)
 - Backlog inicial com histórias de usuário.
 
-### Sprint Planning (TP1 e TP2)
+### Sprint Planning ([TP1](https://github.com/users/taizaoliveira/projects/5/views/1) e [TP2](https://github.com/users/taizaoliveira/projects/8/views/1))
 - Backlogs organizados por sprints, com tarefas divididas por funcionalidade.
 
 ## Arquitetura do Software
 
-### Padrão Arquitetural
+### [Padrão Arquitetural](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/1%20-%20Padr%C3%A3o%20Arquitetural/Padrao_Arquitetural.md)
 - Arquitetura em Camadas
 - Arquitetura Cliente-Servidor
 
-### Tecnologias e Ferramentas
+### [Tecnologias e Ferramentas](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%202/Arquitetura%20do%20Software/2%20-%20Tecnologias%20e%20Ferramentas/Tecnologias_e_Ferramentas.md)
 - Stack Tecnológico baseado em Thunkable, Firebase, Google APIs, Draw.io, Figma, GitHub Projects
 
 ### Modelo C4
