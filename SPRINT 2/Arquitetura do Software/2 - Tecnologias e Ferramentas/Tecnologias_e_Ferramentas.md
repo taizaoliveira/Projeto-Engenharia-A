@@ -1,11 +1,34 @@
-# Tech Stack Map 
+# Tech Stack Map
+
+O mapa de tecnologias abaixo apresenta todas as ferramentas e serviços utilizados na construção do aplicativo **LIVIA.us**, organizados por camadas e responsabilidades dentro da arquitetura do sistema. A visualização permite compreender como cada tecnologia contribui para o funcionamento da solução e quais critérios justificam suas escolhas.
+
+A estrutura segue uma abordagem modular, com camadas como **Front-End**, **Back-End**, **Banco de Dados**, **Autenticação**, **APIs**, **Modelagem e Design**, e **Gestão e Controle**, promovendo clareza, escalabilidade e facilidade de manutenção.
+
+Cada tecnologia foi selecionada com base em critérios como:
+- **Produtividade no desenvolvimento** (uso de plataformas no-code como Thunkable);
+- **Integração nativa entre componentes** (como Firebase com Cloud Firestore e Auth);
+- **Acessibilidade e inclusão** (uso de APIs nativas do dispositivo);
+- **Suporte a funcionalidades essenciais** (como mapas e dados públicos via Google Maps API e GOV APIs);
+- **Gerenciamento ágil de projeto** (Scrum, GitHub Projects).
+
+Essa organização garante uma infraestrutura, adequada para o objetivo principal do sistema: conectar usuários e profissionais às Unidades Básicas de Saúde de forma georreferenciada, simples e inclusiva.
+
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1th1nuxu0PGgp1U7aOLtmSRIjOzM7hLzi" />
 </p>
 
 
 
-# Mapa de Tecnologias
+
+
+## Mapa de Tecnologias
+
+A definição do conjunto de tecnologias utilizadas no projeto **LIVIA.us** foi realizada com base nos objetivos do sistema: acessibilidade, rapidez no desenvolvimento, integração entre serviços e facilidade de manutenção.
+
+Cada camada da arquitetura — do front-end até o gerenciamento do projeto — foi preenchida com ferramentas e plataformas específicas, escolhidas por sua compatibilidade, desempenho e facilidade de uso com as demais.
+
+A tabela a seguir apresenta essas tecnologias organizadas por camada do sistema, explicando por que cada uma foi adotada. Esse mapeamento é fundamental para garantir rastreabilidade arquitetural, consistência técnica e clareza na evolução do sistema.
+
 
 | Camada                 | Tecnologia                      | Justificativa                                                                                                                                                          |
 |------------------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
