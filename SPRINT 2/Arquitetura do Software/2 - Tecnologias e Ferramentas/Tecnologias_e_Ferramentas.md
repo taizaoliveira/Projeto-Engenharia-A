@@ -1,13 +1,16 @@
-| Camada                       | Tecnologia/Ferramenta         | Justificativa                                                                 |
-|-----------------------------|--------------------|-------------------------------------------------------------------------------|
-| Frontend                    | Canva              | Para criação visual e prototipação.                                          |
-|                             | Draw.io            | Para fluxogramas e wireframes.                                              |
-|                             | Figma              | Para criação de design e prototipação colaborativa.                         |
-| Backend                     | Cloud Functions    | Lógica backend serverless, executada sob demanda.                           |
-| Banco de Dados              | Cloud Firestore    | Banco NoSQL moderno do Firebase.                                            |
-|                             | Realtime DB        | Banco NoSQL do Firebase com foco em dados em tempo real.                    |
-|                             | Storage            | Armazenamento de arquivos (imagens, PDFs etc.), geralmente vinculado ao banco. |
-| Autenticação                | Auth               | Firebase Auth, adequado para login com e-mail, Google, etc.                 |
-| Plataforma de Desenvolvimento | Thunkable        | Criação e publicação de apps sem necessidade de codificação.                |
-| API                         | Google Maps API    | Para funcionalidades de geolocalização.                                     |
-|                             | Gov APIs           | Para acessar dados públicos.                                                |
+# Mapa de Tecnologias
+
+| Camada                 | Tecnologia                      | Justificativa                                                                                                                                                          |
+|------------------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Front-End              | Thunkable                        | Permite desenvolvimento rápido e multiplataforma (iOS/Android) sem a necessidade de código complexo, ideal para MVP e prototipagem ágil.                             |
+|                        | APIs Nativas (GPS, Acessibilidade) | Essenciais para funcionalidades como geolocalização e inclusão digital. Thunkable permite uso direto dessas APIs nativas com acessibilidade por voz e leitura de tela. |
+| Back-End               | Cloud Functions (Firebase)       | Execução de lógica de negócio de forma serverless, com escalabilidade automática e integração facilitada com bancos de dados, APIs externas e autenticação. Ideal para validar ideias rapidamente. |
+| Banco de Dados         | Cloud Firestore                  | Banco NoSQL flexível e em tempo real, ideal para armazenar dados estruturados como UBSs, campanhas e perfis de usuários, com ótima integração ao Firebase e Thunkable. |
+| Autenticação           | Firebase Auth                    | Gerenciamento completo de identidade (login, logout, redefinição de senha) com segurança embutida e fácil integração.                                                  |
+| APIs                   | Google Maps API                  | Utilizada para exibir mapas, localização do usuário e das UBSs, com recursos de georreferenciamento. Essencial para a visualização espacial no app.                   |
+|                        | GOV APIs                         | Fornecem dados públicos oficiais sobre Unidades Básicas de Saúde (UBSs), garantindo confiabilidade e atualização constante.                                           |
+| Modelagem e Design     | Drawio                           | Usado para criação de diagramas de arquitetura (como C4), fluxogramas e representações estruturais do sistema.                                                         |
+|                        | Figma                            | Ferramenta colaborativa de design de interfaces, prototipagem de telas e testes de usabilidade.                                                                       |
+|                        | Canva                            | Suporte visual para criação de apresentações, identidade visual e materiais explicativos do projeto.                                                                  |
+| Gestão e Controle      | Scrum                            | Metodologia ágil escolhida para organizar o trabalho em sprints, facilitando o acompanhamento de entregas e priorização de funcionalidades.                          |
+|                        | GitHub + GitHub Projects         | Controle de versão, documentação do código e gerenciamento visual do backlog e progresso do projeto.                                                                  |
