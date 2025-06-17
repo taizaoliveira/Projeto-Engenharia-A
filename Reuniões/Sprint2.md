@@ -18,10 +18,18 @@ Estudamos e analisamos diferentes padrões arquiteturais aplicáveis ao projeto.
 ## Reunião 4 – Remota (02 de junho de 2025)  
 Concluímos a definição dos padrões arquiteturais adotados. Formalizamos a escolha da Arquitetura em Camadas e do modelo Cliente-Servidor, com base nos requisitos do sistema, escalabilidade desejada e estrutura lógica do projeto.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=15vziACjJ_VZ-HCbh7TWwmCKlVvI96Xwp" /> 
+</p>
+
 ---
 
 ## Reunião 5 – Remota (12 de junho de 2025)  
-Realizamos o levantamento e a categorização das tecnologias utilizadas. Mapeamos as ferramentas por camada (frontend, backend, banco de dados, autenticação, APIs etc.) e elaboramos justificativas técnicas para cada uma das escolhas realizadas.
+Realizamos a coleção e discriminação referente ao trabalho 3.
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1i_5qJZTrdhy11_nJU2-11KSiD4JuMB8o" />
+</p>
 
 ---
 
