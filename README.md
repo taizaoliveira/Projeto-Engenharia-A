@@ -34,7 +34,7 @@ Andrey Rodrigues
 ### Plano de Trabalho
 - :page_facing_up: [Plano de Trabalho](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%201/1%20-%20Plano%20de%20Trabalho/Plano_de_Trabalho.md)
 
-### [Design Thinking](https://github.com/taizaoliveira/Projeto-Engenharia-A/tree/main/SPRINT%201/2%20-%20Design%20Thinking)
+### Design Thinking
 - [Golden Circle](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%201/2%20-%20Design%20Thinking/FASE%20I%20-%20INSPIRA%C3%87%C3%83O/1.%20Enquadramento%20do%20Problema%20-%20Golden%20Circle.md)
 - [SWOT](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%201/2%20-%20Design%20Thinking/FASE%20I%20-%20INSPIRA%C3%87%C3%83O/2.%20Explora%C3%A7%C3%A3o%20do%20Mercado.md)
 - [Quadro Comparativo](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%201/2%20-%20Design%20Thinking/FASE%20I%20-%20INSPIRA%C3%87%C3%83O/2.%20Explora%C3%A7%C3%A3o%20do%20Mercado.md)
