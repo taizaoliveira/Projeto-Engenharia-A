@@ -7,7 +7,7 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 | **ISSUES**                         | **QUANTIDADE** | **LOCALIZAÇÃO**                                                                 |
 |-----------------------------------|----------------|----------------------------------------------------------------------------------|
 | Número de Defeitos                | 38             | #2 - #39                                                                         |
-| Issues Confirmadas e Corrigidas   | 33             | #2 - #3, #5 - #12, #14 - #30, #32 - #34, #36 - #37, #39                          |
+| Issues Confirmadas e Corrigidas   | 33             | #2 , #3, #5 - #12, #14 - #30, #32 - #34, #36 , #37, #39                          |
 | Issues Não Confirmadas            | 4              | #4, #31, #35, #38                                                                |
 | Issues Reavaliadas                | 1              | #13                                                                             |
 
@@ -16,35 +16,35 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 ##  Issues Resolvidas
 
 
-###  VALIDAÇÕES E SEGURANÇA
+###  Validações e Segurança
 
 - **E-mail**: Regex corrigida para aceitar qualquer domínio válido e permitir caracteres especiais, com regras claras para o uso do ponto (.).
 - **Senha**: Regras de complexidade definidas (mínimo uma letra maiúscula, uma minúscula e um número).
 - **Login**: Comportamento de sensibilidade a maiúsculas/minúsculas (case sensitive) especificado.
 
-###  MENSAGENS DE ERRO
+###  Mensagens de Erro
 
 - Mensagens mais claras e específicas para e-mail/senha inválidos ou campos vazios.
 - Erros no fluxo de recuperação de senha agora distinguem “formato inválido” e “e-mail não encontrado”.
 
-###  FLUXOS E NAVEGAÇÃO
+###  Fluuxos e Navegação
 
 - Recuperação de senha: Fluxo completo documentado, incluindo expiração e reuso de links.
 - Login de enfermeiro: Campo unificado para e-mail ou COREN com formato padronizado.
 - Visitante: Validação de CEP aprimorada com API e mensagens específicas.
 
-###  MAPA E UBS
+###  Mapa e UBS
 
 - Integração com Google Maps definida.
 - Lógica de ordenação de UBSs (por proximidade ou alfabética) formalizada.
 - Exibição detalhada de UBSs: endereço, telefone, horário e serviços.
 
-###  ACESSIBILIDADE E CLAREZA
+###  Acessibilidade e Clareza
 
 - Textos vagos substituídos por descrições objetivas.
 - Linguagem inclusiva aplicada em histórias com foco em acessibilidade.
 
-###  PROCESSOS INTERNOS
+###  Processos Internos
 
 - Publicação de eventos: Fluxo de aprovação por responsáveis definido, com notificações e possibilidade de ativação/desativação no painel administrativo.
 
@@ -52,7 +52,7 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 
 ##  Issues Não Confirmadas
 
-###  TELAS E MENUS (H1, H8)
+###  Telas e Menus (H1, H8)
 
 - **Botão "Voltar para tela inicial" (H1)**:
   - Não existe essa funcionalidade nos critérios. O botão já previsto é para retornar ao login, conforme esperado.
@@ -60,7 +60,7 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 - **Ordem do Menu (H8)**:
   - A ordem “Feed, UBS, Chat, Perfil” já estava claramente listada nos critérios, sem omissões.
 
-###  ESCOPO E CONTEXTO (H10, H11)
+###  Escopo e Contexto (H10, H11)
 
 - **Divisão de funcionalidades (H10)**:
   - A história possui um objetivo funcional único (publicação de eventos). Não há necessidade de separação em outras histórias.
