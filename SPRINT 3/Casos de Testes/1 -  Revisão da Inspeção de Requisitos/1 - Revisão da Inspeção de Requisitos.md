@@ -84,5 +84,5 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 
 As issues revisadas nesta etapa foram originalmente identificadas e descritas no documento **“Inspeção do Backlog"**, o qual apresenta detalhadamente os critérios de aceitação, descrições dos defeitos, tipo de falha e sua classificação. Esse documento serviu como base para a verificação, categorização e tratamento das ocorrências nesta fase da inspeção, e pode ser consultado no link a seguir:
 
-[Inspeção do Backlog (PDF)](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%203/Casos%20de%20Testes/1%20-%20%20Revis%C3%A3o%20da%20Inspe%C3%A7%C3%A3o%20de%20Requisitos/Inspe%C3%A7%C3%A3o%20do%20Backlog%20-%20Revis%C3%A3o%20e%20An%C3%A1lise.pdf)
+[Inspeção do Backlog (PDF)](https://github.com/taizaoliveira/Projeto-Engenharia-A/blob/main/SPRINT%203/Casos%20de%20Testes/1%20-%20%20Revis%C3%A3o%20da%20Inspe%C3%A7%C3%A3o%20de%20Requisitos/Inspe%C3%A7%C3%A3o%20do%20Backlog.pdf)
 
