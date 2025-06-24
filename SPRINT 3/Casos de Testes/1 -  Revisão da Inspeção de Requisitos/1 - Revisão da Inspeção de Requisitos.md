@@ -1,6 +1,6 @@
 # Revisão da Inspeção de Requisitos
 
-Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados como defeitos nos requisitos. Verificamos cada issue registrada, confirmando aquelas que de fato representavam problemas e realizando as devidas correções. Também identificamos quais apontamentos não correspondiam a defeitos, classificando-os como não confirmados ou reavaliados.
+Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados como defeitos nos requisitos. Verificamos cada issue registrada, confirmamos aquelas que de fato representavam problemas e realizamos as devidas correções. Também identificamos quais apontamentos não correspondiam a defeitos, classificando-os como não confirmados ou reavaliados.
 
 ## Tabela de Defeitos
 
@@ -11,9 +11,10 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 | Issues Não Confirmadas            | 4              | #4, #31, #35, #38                                                                |
 | Issues Reavaliadas                | 1              | #13                                                                             |
 
+---
+
 ##  Issues Resolvidas
 
----
 
 ###  VALIDAÇÕES E SEGURANÇA
 
@@ -32,7 +33,7 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 - Login de enfermeiro: Campo unificado para e-mail ou COREN com formato padronizado.
 - Visitante: Validação de CEP aprimorada com API e mensagens específicas.
 
-### 🗺 MAPA E UBS
+###  MAPA E UBS
 
 - Integração com Google Maps definida.
 - Lógica de ordenação de UBSs (por proximidade ou alfabética) formalizada.
@@ -47,9 +48,9 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 
 - Publicação de eventos: Fluxo de aprovação por responsáveis definido, com notificações e possibilidade de ativação/desativação no painel administrativo.
 
-##  Issues Não Confirmadas
-
 ---
+
+##  Issues Não Confirmadas
 
 ###  TELAS E MENUS (H1, H8)
 
@@ -59,8 +60,6 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 - **Ordem do Menu (H8)**:
   - A ordem “Feed, UBS, Chat, Perfil” já estava claramente listada nos critérios, sem omissões.
 
----
-
 ###  ESCOPO E CONTEXTO (H10, H11)
 
 - **Divisão de funcionalidades (H10)**:
@@ -69,9 +68,9 @@ Nesta etapa do trabalho, revisamos e analisamos os apontamentos identificados co
 - **Comandos de voz (H11)**:
   - A história trata apenas da visualização de posts. O uso de voz está corretamente tratado na H12, e a issue estava atribuída de forma incorreta.
 
-##  Issues Reavaliadas
-
 ---
+
+##  Issues Reavaliadas
 
 ###  Uso Único do Link de Redefinição (H3)
 
