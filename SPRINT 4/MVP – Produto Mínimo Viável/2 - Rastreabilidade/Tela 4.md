@@ -28,5 +28,10 @@ Fluxo de recuperação de senha implementado no **Thunkable**, integrado ao **Fi
 ## Diagrama de Classes
 Utiliza as classes **Usuario**, **Autenticacao**.
 
-## Diagrama C4 (Container)
-A funcionalidade faz parte do container **“Firebase Auth”** (responsável por autenticação e redefinição de senha) e do **“Serviço de E-mail”** (para envio do link de recuperação). É acessada através do container **“Aplicativo Mobile (Thunkable)”**, que controla toda a interface do fluxo.
+## Diagrama C4 
+
+- **Diagrama de Contexto:** Mostra os atores **Usuário Cadastrado** ou **Enfermeiro** interagindo com o sistema **LIVIA.us**, que se conecta ao **Firebase Auth** para verificar o e-mail, gerar o link de redefinição e também aciona o **Serviço de E-mail** para enviar o link seguro ao usuário.
+
+- **Diagrama de Containers:** A funcionalidade é executada no container **“Aplicativo Mobile (Thunkable)”**, que se comunica com o container **“Firebase Auth”** (gerenciamento da redefinição de senha) e o **Serviço de E-mail** (envio do link). O **Cloud Firestore** é usado para armazenar informações relacionadas ao usuário.
+
+- **Diagrama de Componentes:** Implementada pelo **Módulo de Autenticação (UI)**, responsável por coletar o e-mail, validar o formato, exibir mensagens de erro e sucesso e renderizar o formulário de nova senha. O **Gerenciador de UI & Navegação** gerencia o fluxo entre telas (login ↔ recuperação) e o redirecionamento após o reset.
