@@ -18,5 +18,9 @@ Implementado como um **menu fixo (tab bar)** na parte inferior do aplicativo, ut
 ## Diagrama de Classes
 Relaciona-se com a classe **UsuarioCadastrado**, que acessa as funcionalidades disponíveis. A navegação é controlada pelo **Gerenciador de UI**, não sendo modelado como classe individual, mas como fluxo dentro da lógica de blocos.
 
-## Diagrama C4 (Container)
-A funcionalidade faz parte do container **“Aplicativo Mobile (Thunkable)”**, utilizando o componente **Gerenciador de UI & Navegação** que conecta as telas **Feed**, **UBS**, **Chat** e **Perfil**. Garante coesão entre front-end, backend (Firebase) e serviços externos conforme necessário.
+## Diagrama C4 
+- **Diagrama de Contexto:** Mostra o ator **Usuário Cadastrado** interagindo com o sistema **LIVIA.us**, navegando pelas principais funcionalidades (**Feed**, **UBS**, **Chat**, **Perfil**) sem necessidade de novas autenticações, mas utilizando o fluxo contínuo de dados entre app, backend e APIs externas.
+
+- **Diagrama de Containers:** A navegação ocorre totalmente dentro do container **“Aplicativo Mobile (Thunkable)”**, que se conecta aos containers de backend (**Cloud Firestore**, **Firebase Auth**) e aos sistemas externos (**Google Maps API**, **Gov APIs**) conforme o usuário troca de telas.
+
+- **Diagrama de Componentes:** Controlada pelo **Gerenciador de UI & Navegação**, que organiza as transições entre as telas principais e aplica as regras de destaque visual e animação. Cada botão do menu é ligado a um módulo de tela: **Feed de Informações**, **Mapa das UBSs**, **Chat** e **Perfil do Usuário**.
