@@ -22,5 +22,9 @@ Tela de **Login** com formulário de entrada de **e-mail** e **senha**, incluind
 ## Diagrama de Classes
 Utiliza as classes **Usuario**, **Autenticacao**.
 
-## Diagrama C4 (Container)
-A funcionalidade faz parte do container **“Firebase Auth”** (autenticação) e é acessada pelo container **“Aplicativo Mobile (Thunkable)”**. Interage com o **Serviço de E-mail** em caso de recuperação de senha.
+## Diagrama C4 
+- **Diagrama de Contexto:** Mostra o ator **Usuário Cadastrado** interagindo com o sistema **LIVIA.us**, que realiza autenticação pelo **Firebase Auth**. Se necessário, o fluxo de **Recuperação de Senha** é acionado com o **Serviço de E-mail**.
+
+- **Diagrama de Containers:** A funcionalidade roda no container **“Aplicativo Mobile (Thunkable)”**, que faz requisições de autenticação ao container **“Firebase Auth”**. Caso o usuário clique em “Esqueci minha senha”, o fluxo também conecta ao **Serviço de E-mail**.
+
+- **Diagrama de Componentes:** Implementada pelo **Módulo de Autenticação (UI)**, responsável por capturar as credenciais, exibir mensagens de erro ou sucesso e controlar o fluxo para cadastro ou recuperação de senha. O **Gerenciador de UI & Navegação** garante o redirecionamento para as telas apropriadas.
