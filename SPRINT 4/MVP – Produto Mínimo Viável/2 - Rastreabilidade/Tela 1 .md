@@ -6,9 +6,10 @@
 ## Implementação no MVP
 Tela de **Cadastro de Usuário** com formulário contendo **nome completo**, **e-mail**, **senha** e **confirmação de senha**, incluindo:
 
-- Validação de formato de e-mail usando **regex padrão especificado**.
+- Validação do formato de e-mail realizada com uma parte do regex padrão, utilizando apenas a verificação da presença de `'@'` e `'.'`, devido às limitações da plataforma e à complexidade do regex completo para e-mails."
 - Verificação de senha com mínimo de **8 caracteres**, pelo menos uma letra maiúscula e uma letra minúscula e um número.
-- Checagem de campos obrigatórios e mensagens de erro em caso de preenchimento incorreto.
+- Checagem de campos obrigatórios e mensagens de erro em caso de campos vazios.
+- Mensagens de erro foram implementadas para os seguintes casos: e-mail em formato inválido, senha com menos de 8 caracteres, senha que não atende ao padrão esperado pelo regex, e divergência entre a senha e sua confirmação.
 - Opção de marcar **acessibilidade** para usuários com deficiência.
 - Verificação de **e-mail duplicado**, com redirecionamento para login caso já exista.
 - Mensagem de sucesso ao finalizar, com botão para voltar para tela de login.
